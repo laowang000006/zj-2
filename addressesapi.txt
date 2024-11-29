@@ -1,4 +1,12 @@
-18.167.194.154:443#HK
-156.230.12.71:443#HK
-8.218.148.106:443#HK
-43.128.26.74:443#HK
+johnny.ns.cloudflare.com
+margot.ns.cloudflare.com
+cameron.ns.cloudflare.com
+eleanor.ns.cloudflare.com
+cf.090227.xyz
+ct.090227.xyz
+usa.visa.com
+myanmar.visa.com
+www.visa.com.tw
+www.visaeurope.ch
+www.visa.com.br
+www.visasoutheasteurope.com
